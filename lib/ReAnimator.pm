@@ -9,6 +9,8 @@ use Protocol::WebSocket::URL;
 use ReAnimator::Client;
 use ReAnimator::Server;
 
+our $VERSION = 0.0001;
+
 sub new {
     my $class  = shift;
     my %params = @_;
