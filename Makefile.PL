@@ -10,8 +10,8 @@ use ExtUtils::MakeMaker;
 my ($mm) = $ExtUtils::MakeMaker::VERSION =~ /^([^_]+)/;
 
 WriteMakefile(
-    NAME         => 'Reanimator',
-    VERSION_FROM => 'lib/Reanimator.pm',
+    NAME         => 'ReAnimator',
+    VERSION_FROM => 'lib/ReAnimator.pm',
     ABSTRACT     => 'Standalone single-process WebSocket server',
     AUTHOR       => 'Viacheslav Tykhanovskyi <vti@cpan.org>',
 
