@@ -1,0 +1,8 @@
+TODO
+====
+1. Kdyz spustim chat, tak spadne na
+   Can't locate object method "send_message" via package "EventReactor::AcceptedAtom" at /mnt/disk/44_git/reanimator/examples/../lib/ReAnimator.pm line 65.
+2.
+
+Applied
+=======
